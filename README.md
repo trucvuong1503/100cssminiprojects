@@ -10,3 +10,5 @@
 ![](https://media.giphy.com/media/SS39wbTPV2AMCLHPRu/giphy.gif)
 5. Scroll Down Effect <br>
 ![](https://media.giphy.com/media/6QufeGDwIdoKKUop6g/giphy.gif)
+6. Loading Animation <br>
+![](https://media.giphy.com/media/o03Gx4Woq8Ta4dHGe9/giphy.gif)
