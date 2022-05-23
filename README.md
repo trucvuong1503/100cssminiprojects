@@ -6,3 +6,5 @@
 ![](https://media.giphy.com/media/hZolVztzvOf2XObfYX/giphy.gif)
 3. Glowing Text <br>
 ![](https://media.giphy.com/media/bgK5uZ8vQw7GnqBANl/giphy.gif)
+4. Parallax Scrolling Effect (CSS+Javascript) <br>
+![](https://media.giphy.com/media/SS39wbTPV2AMCLHPRu/giphy.gif)
