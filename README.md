@@ -12,3 +12,7 @@
 ![](https://media.giphy.com/media/6QufeGDwIdoKKUop6g/giphy.gif)
 6. Loading Animation <br>
 ![](https://media.giphy.com/media/o03Gx4Woq8Ta4dHGe9/giphy.gif)
+7. Button Hover Effect 1 <br>
+8. Button Hover Effect 2 <br>
+9. Button Hover Effect 3 <br>
+10. Button Hover Effect 4 <br>
