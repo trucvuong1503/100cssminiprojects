@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;1,200&display=swap');
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    background-color: #262626;
+    font-family: 'Roboto',sans-serif;
+    font-size: 40px;
+    border: 3px solid white;
+    padding: 40px 80px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+a:before{
+    content: 'Hover Me';
+    color: #262626;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #fffa65;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s;
+    
+}
+a:after{
+    content: 'Hover Me';
+    color: #262626;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #fffa65;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translate(-100%,100%);
+    transition: all 0.5s;
+    
+}
+
+a:hover::before{
+    transform: translate(100%,-100%) ;
+}
+a:hover::after{
+    transform: translate(0%,0%) ;
+}
