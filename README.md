@@ -16,3 +16,9 @@
 8. Button Hover Effect 2 <br>
 9. Button Hover Effect 3 <br>
 10. Button Hover Effect 4 <br>
+11. Button Hover Effect 5 <br>
+12. Button Hover Effect 6 <br>
+13. Button Hover Effect 7 <br>
+14. Button Hover Effect 8 <br>
+15. Button Hover Effect 9 <br>
+16. Button Hover Effect 10 <br>
