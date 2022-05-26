@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;1,200&display=swap');
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: verdana;
+    background-color: #222;
+}
+
+a{
+    text-decoration: none;
+    color: #f6b93b;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border: 3px solid #f6b93b;
+    padding: 25px 50px;
+    position: relative;
+    transition: all 0.5s;
+    overflow: hidden;
+}
+a:before,
+a:after,
+span::before,
+span::after{
+    content: '';
+    position: absolute;
+    background-color: #f6b93b;
+    height: 100%;
+    width: 25%;
+    z-index: -1;
+    transition: all 0.2s;
+    
+}
+a:before{
+    /* top: 0; */
+    top:100%;
+    left: 0;   
+}
+a:hover:before{
+    top: 0;
+    left: 0;   
+}
+a:after{
+    top: -100%;
+    left: 25%;  
+    transition-delay: 0.1s; 
+}
+a:hover:after{
+    top: 0;
+    left: 25%;   
+}
+a span:before{
+    top: 100%;
+    right: 25%;
+    transition-delay: 0.2s;
+}
+a:hover span:before{
+    top: 0;
+    right: 25%;
+}
+a span:after{
+    /* top: 0; */
+    top: -100%;
+    /* right: -25%; */
+    right: 0;
+    transition-delay: 0.3s;
+}
+a:hover span:after{
+    top: 0;
+    right: 0;
+}
+a:hover{
+    color: #222;
+}
