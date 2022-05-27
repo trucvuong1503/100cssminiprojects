@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;1,200&display=swap');
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: #212121;
+}
+
+a{
+    text-decoration: none;
+    color: #fdc518;
+    font-size: 22px;
+    font-family: verdana;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    height: 60px;
+    width: 200px;
+    line-height: 60px;
+    text-align: center;
+    position: relative;
+}
+a:before{
+    content: '';
+    position: absolute;
+    top: -15px;
+    left: 0;
+    border-left: 2px solid red;
+    border-right: 2px solid #FCD518;
+    height: 90px;
+    width: 200px;
+    transition: all 0.4s;
+    
+}
+a:after{
+    content:'';
+    position: absolute;
+    height: 60px;
+    width: 230px;
+    top: 0;
+    left: -15px;
+    border-top: 2px solid red;
+    border-bottom: 2px solid #fdc518;
+    transition: all 0.4s;
+    transition-delay: 0.4s;
+}
+a:hover::before{
+    transform: rotateY(180deg);
+}
+a:hover::after{
+    transform: rotateX(180deg);
+}
