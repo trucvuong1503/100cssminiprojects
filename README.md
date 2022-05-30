@@ -34,13 +34,17 @@
 25. Button Hover Effect 18 <br>
 26. Button Hover Effect 19 <br>
 ![](https://media.giphy.com/media/RHhlGE3Sgio06hIqAT/giphy.gif)
-28. Button Hover Effect 20 <br>
+27. Button Hover Effect 20 <br>
 ![](https://media.giphy.com/media/dZZAwxONvF20mwwTfz/giphy.gif)
-30. Button Hover Effect 21 <br>
+28. Button Hover Effect 21 <br>
 ![](https://media.giphy.com/media/r8AjeCTVTLd2z9vEJI/giphy.gif)
-31. Button Hover Effect 22 <br>
+29. Button Hover Effect 22 <br>
 ![](https://media.giphy.com/media/x6O7OWJAoXh2OtbFrg/giphy.gif)
-33. Button Hover Effect 23 <br>
+30. Button Hover Effect 23 <br>
 ![](https://media.giphy.com/media/rAOgswLWq0KrUnZmbH/giphy.gif)
-
+31. Image Effects 1 <br>
+32. Image Effects 2<br>
+33. Image Effects 3 <br>
+34. Image Effects 4 <br>
+35. Image Effects 5 <br>
 
