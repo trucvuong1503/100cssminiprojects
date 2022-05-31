@@ -47,4 +47,11 @@
 33. Image Effects 3 <br>
 34. Image Effects 4 <br>
 35. Image Effects 5 <br>
+36. Image Effects 6 <br>
+37. Image Effects 7 <br>
+38. Image Effects 8 <br>
+39. Image Effects 9 <br>
+40. Image Effects 10 <br>
+41. Image Effects 11 <br>
+
 
